@@ -1,0 +1,8 @@
+C:\Users\javiers\Google Drive\ExpensesControl\ExpensesControl\Entities\bin\Debug\netcoreapp2.1\Expenses.Entities.deps.json
+C:\Users\javiers\Google Drive\ExpensesControl\ExpensesControl\Entities\bin\Debug\netcoreapp2.1\Expenses.Entities.dll
+C:\Users\javiers\Google Drive\ExpensesControl\ExpensesControl\Entities\bin\Debug\netcoreapp2.1\Expenses.Entities.pdb
+C:\Users\javiers\Google Drive\ExpensesControl\ExpensesControl\Entities\obj\Debug\netcoreapp2.1\Expenses.Entities.csproj.CoreCompileInputs.cache
+C:\Users\javiers\Google Drive\ExpensesControl\ExpensesControl\Entities\obj\Debug\netcoreapp2.1\Expenses.Entities.AssemblyInfoInputs.cache
+C:\Users\javiers\Google Drive\ExpensesControl\ExpensesControl\Entities\obj\Debug\netcoreapp2.1\Expenses.Entities.AssemblyInfo.cs
+C:\Users\javiers\Google Drive\ExpensesControl\ExpensesControl\Entities\obj\Debug\netcoreapp2.1\Expenses.Entities.dll
+C:\Users\javiers\Google Drive\ExpensesControl\ExpensesControl\Entities\obj\Debug\netcoreapp2.1\Expenses.Entities.pdb

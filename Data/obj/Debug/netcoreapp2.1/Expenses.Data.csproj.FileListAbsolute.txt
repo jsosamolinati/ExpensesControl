@@ -1,0 +1,14 @@
+C:\Users\javiers\Google Drive\ExpensesControl\ExpensesControl\Data\bin\Debug\netcoreapp2.1\Expenses.Data.deps.json
+C:\Users\javiers\Google Drive\ExpensesControl\ExpensesControl\Data\bin\Debug\netcoreapp2.1\Expenses.Data.dll
+C:\Users\javiers\Google Drive\ExpensesControl\ExpensesControl\Data\obj\Debug\netcoreapp2.1\Expenses.Data.csproj.CoreCompileInputs.cache
+C:\Users\javiers\Google Drive\ExpensesControl\ExpensesControl\Data\obj\Debug\netcoreapp2.1\Expenses.Data.AssemblyInfoInputs.cache
+C:\Users\javiers\Google Drive\ExpensesControl\ExpensesControl\Data\obj\Debug\netcoreapp2.1\Expenses.Data.AssemblyInfo.cs
+C:\Users\javiers\Google Drive\ExpensesControl\ExpensesControl\Data\bin\Debug\netcoreapp2.1\Expenses.Data.runtimeconfig.json
+C:\Users\javiers\Google Drive\ExpensesControl\ExpensesControl\Data\bin\Debug\netcoreapp2.1\Expenses.Data.runtimeconfig.dev.json
+C:\Users\javiers\Google Drive\ExpensesControl\ExpensesControl\Data\bin\Debug\netcoreapp2.1\Expenses.Data.pdb
+C:\Users\javiers\Google Drive\ExpensesControl\ExpensesControl\Data\obj\Debug\netcoreapp2.1\Expenses.Data.dll
+C:\Users\javiers\Google Drive\ExpensesControl\ExpensesControl\Data\obj\Debug\netcoreapp2.1\Expenses.Data.pdb
+C:\Users\javiers\Google Drive\ExpensesControl\ExpensesControl\Data\obj\Debug\netcoreapp2.1\Expenses.Data.csprojAssemblyReference.cache
+C:\Users\javiers\Google Drive\ExpensesControl\ExpensesControl\Data\bin\Debug\netcoreapp2.1\Expenses.Entities.dll
+C:\Users\javiers\Google Drive\ExpensesControl\ExpensesControl\Data\bin\Debug\netcoreapp2.1\Expenses.Entities.pdb
+C:\Users\javiers\Google Drive\ExpensesControl\ExpensesControl\Data\obj\Debug\netcoreapp2.1\Expenses.Data.csproj.CopyComplete
